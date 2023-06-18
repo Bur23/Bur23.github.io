@@ -4,7 +4,7 @@ import cgi
 import random
 
 def htmlTop():
-    print ('''Content-type:text/html\n\n
+    print ('''Content-type:text/html\n\n)
     <!DOCTYPE html>
     <html lang="en-US">
         <head>
